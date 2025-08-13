@@ -1,5 +1,7 @@
 **Mobile Phone Data Analysis 數據分析專案**
 
+主程式:mobile_data_analysis.ipynb
+
 ## 專案簡介
 
   - 資料來源：Kaggle 手機產品資料
